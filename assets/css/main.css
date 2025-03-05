@@ -2094,10 +2094,10 @@ input, select, textarea {
 
 	#header-wrapper {
 		background-image: url(../../images/cyberdrive2.jpg);
-          background-size:auto;
-          background-color: #464646;
-          background-position: center;
-          background-repeat: no-repeat;
+		background-size: 100% auto;
+		background-color: #464646;
+		background-position: center;
+		background-repeat: no-repeat;
         
 	}
 
